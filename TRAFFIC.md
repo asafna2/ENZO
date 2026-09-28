@@ -6,11 +6,11 @@
 
 ## Latest snapshot
 
-**Week 2026-W39** (updated 2026-09-27)
+**Week 2026-W40** (updated 2026-09-28)
 
 | Last 14 days | Views | Unique visitors | Clones | Unique cloners | Stars |
 |---|---|---|---|---|---|
-| totals | 2407 | 1735 | 465 | 153 | 108 |
+| totals | 2407 | 1735 | 465 | 153 | 109 |
 
 | Day | Views | Unique | Clones | Unique |
 |---|---|---|---|---|
