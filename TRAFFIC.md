@@ -33,16 +33,16 @@
 
 | Source | Views | Unique |
 |---|---|---|
-| news.ycombinator.com | 438 | 395 |
-| facebook.com | 127 | 120 |
-| lm.facebook.com | 121 | 113 |
-| l.facebook.com | 107 | 79 |
-| github.com | 88 | 61 |
-| Google | 37 | 28 |
-| reddit.com | 35 | 26 |
+| news.ycombinator.com | 446 | 398 |
+| lm.facebook.com | 146 | 135 |
+| l.facebook.com | 145 | 107 |
+| facebook.com | 143 | 133 |
+| github.com | 87 | 63 |
+| Google | 65 | 40 |
+| reddit.com | 33 | 25 |
 | brutalist.report | 30 | 26 |
 | hckrnews.com | 24 | 22 |
-| com.reddit.frontpage | 13 | 12 |
+| com.reddit.frontpage | 12 | 10 |
 
 
 ## Weekly history
