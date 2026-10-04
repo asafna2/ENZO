@@ -10,10 +10,11 @@
 
 | Last 14 days | Views | Unique visitors | Clones | Unique cloners | Stars |
 |---|---|---|---|---|---|
-| totals | 2158 | 1514 | 1079 | 263 | 111 |
+| totals | 2014 | 1446 | 1051 | 255 | 111 |
 
 | Day | Views | Unique | Clones | Unique |
 |---|---|---|---|---|
+| 2026-10-03 | 19 | 12 | 31 | 15 |
 | 2026-10-02 | 17 | 13 | 50 | 23 |
 | 2026-10-01 | 27 | 23 | 261 | 25 |
 | 2026-09-30 | 29 | 23 | 42 | 17 |
@@ -27,20 +28,19 @@
 | 2026-09-22 | 61 | 52 | 30 | 12 |
 | 2026-09-21 | 175 | 135 | 52 | 20 |
 | 2026-09-20 | 1289 | 1003 | 50 | 23 |
-| 2026-09-19 | 163 | 114 | 59 | 22 |
 
 ### Top referrers (last 14 days)
 
 | Source | Views | Unique |
 |---|---|---|
-| news.ycombinator.com | 453 | 400 |
-| github.com | 73 | 58 |
-| l.facebook.com | 65 | 47 |
-| Google | 56 | 28 |
-| lm.facebook.com | 37 | 35 |
-| facebook.com | 37 | 33 |
+| news.ycombinator.com | 449 | 395 |
+| github.com | 72 | 58 |
+| Google | 55 | 25 |
+| l.facebook.com | 54 | 38 |
 | brutalist.report | 30 | 26 |
+| lm.facebook.com | 28 | 26 |
 | hckrnews.com | 24 | 22 |
+| facebook.com | 18 | 15 |
 | reddit.com | 12 | 10 |
 | felladrin-awesome-ai-web-search.static.hf.space | 9 | 9 |
 
