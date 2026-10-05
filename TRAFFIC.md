@@ -10,10 +10,11 @@
 
 | Last 14 days | Views | Unique visitors | Clones | Unique cloners | Stars |
 |---|---|---|---|---|---|
-| totals | 2014 | 1446 | 1051 | 255 | 111 |
+| totals | 745 | 463 | 1019 | 236 | 111 |
 
 | Day | Views | Unique | Clones | Unique |
 |---|---|---|---|---|
+| 2026-10-04 | 20 | 11 | 18 | 7 |
 | 2026-10-03 | 19 | 12 | 31 | 15 |
 | 2026-10-02 | 17 | 13 | 50 | 23 |
 | 2026-10-01 | 27 | 23 | 261 | 25 |
@@ -27,22 +28,21 @@
 | 2026-09-23 | 75 | 39 | 50 | 21 |
 | 2026-09-22 | 61 | 52 | 30 | 12 |
 | 2026-09-21 | 175 | 135 | 52 | 20 |
-| 2026-09-20 | 1289 | 1003 | 50 | 23 |
 
 ### Top referrers (last 14 days)
 
 | Source | Views | Unique |
 |---|---|---|
-| news.ycombinator.com | 449 | 395 |
-| github.com | 72 | 58 |
-| Google | 55 | 25 |
-| l.facebook.com | 54 | 38 |
-| brutalist.report | 30 | 26 |
-| lm.facebook.com | 28 | 26 |
-| hckrnews.com | 24 | 22 |
-| facebook.com | 18 | 15 |
-| reddit.com | 12 | 10 |
-| felladrin-awesome-ai-web-search.static.hf.space | 9 | 9 |
+| github.com | 69 | 57 |
+| l.facebook.com | 51 | 36 |
+| Google | 47 | 17 |
+| news.ycombinator.com | 40 | 34 |
+| lm.facebook.com | 25 | 23 |
+| facebook.com | 16 | 14 |
+| t.co | 9 | 8 |
+| felladrin-awesome-ai-web-search.static.hf.space | 8 | 8 |
+| linkedin.com | 8 | 7 |
+| reddit.com | 7 | 7 |
 
 
 ## Weekly history
